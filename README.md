@@ -1,7 +1,5 @@
 # [egeexyz.github.io](https://github.com/egeexyz/egeexyz.github.io)
 
-
-
 ## Content Credits
 - [Cover Image](https://unsplash.com/@egeeirl)
 - [Egee Art](https://merlinmakes.carrd.co/)
