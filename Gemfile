@@ -12,7 +12,7 @@ source "http://rubygems.org"
 
 gem "jekyll"
 gem "thin"
-
+gem "json"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 
