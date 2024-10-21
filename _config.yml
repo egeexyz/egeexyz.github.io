@@ -12,7 +12,7 @@ Cover_Image: https://images.unsplash.com/photo-1695683533112-21c8f8439ceb?q=80&w
 
 # SOCIAL MEDIA
 links:
-  - Name: Egee's ASMR
+  - Name: Egee's Asmr
     URL: https://www.youtube.com/
     Username: '@OpenEgee'
     Color: '#F20C0C'
@@ -26,19 +26,12 @@ links:
     Icon-Class: fa-brands fa-mastodon
     Text_Color: '#ffffff'
 
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: egee_irl
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
     # BLUESKY
   - Name: Bluesky
     URL: https://bsky.app/profile
     Username: 'egee.bsky.social'
     Color: '#6DB2FA'
-    Icon-Class: fa-solid fa-square
+    Icon-Class: fa-brands fa-bluesky
 
     # YOUTUBE
   - Name: Egee's Hobbies
@@ -47,12 +40,12 @@ links:
     Color: '#F20C0C'
     Icon-Class: fab fa-youtube
 
-    # GITLAB
-  - Name: Gitlab
-    URL: http://gitlab.com
-    Username: egee-irl
-    Color: '#FC6D26'
-    Icon-Class: fab fa-gitlab
+  #   # GITLAB
+  # - Name: Gitlab
+  #   URL: http://gitlab.com
+  #   Username: egee-irl
+  #   Color: '#FC6D26'
+  #   Icon-Class: fab fa-gitlab
 
     # STEAM
   - Name: Steam
@@ -85,21 +78,13 @@ links:
     Color: '#1A2B33'
     Icon-Class: fab fa-github
 
-    # APPLE MUSIC
-  - Name: Apple Music
-    URL: https://music.apple.com/us/artist/egee
-    Username: '1704222534'
-    Icon-Class: fab fa-itunes
-    Color: '#FB405A'
-    Text_Color: '#ffffff'
-
     # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: egeexyz
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
+  # - Name: Twitch
+  #   URL: 'https://twitch.tv'
+  #   Username: egeexyz
+  #   Icon-Class: fab fa-twitch
+  #   Color: '#9147fe'
+  #   Text_Color: '#ffffff'
 
     # SOUNDCLOUD
   - Name: SoundCloud
@@ -107,6 +92,14 @@ links:
     Username: egeexyz
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
+
+    # APPLE MUSIC
+  - Name: Apple Music
+    URL: https://music.apple.com/us/artist/egee
+    Username: '1704222534'
+    Icon-Class: fab fa-itunes
+    Color: '#FB405A'
+    Text_Color: '#ffffff'
 
     # SPOTIFY
   - Name: Spotify
@@ -139,19 +132,19 @@ links:
     Text_Color: '#ffffff'
 
      # FURAFFINITY
-  - Name: FurAffinity
-    URL: https://www.furaffinity.net/user
-    Username: egeeirl
-    Color: '#F1F3F4'
-    Icon-Class: fa-solid fa-paw
-    Text_Color: '#000000'
+  # - Name: FurAffinity
+  #   URL: https://www.furaffinity.net/user
+  #   Username: egeeirl
+  #   Color: '#F1F3F4'
+  #   Icon-Class: fa-solid fa-paw
+  #   Text_Color: '#000000'
 
-    # Hobby Linux
-  - Name: Hobby Linux
-    URL: https://github.com/Hobby-Linux
-    Icon-Class: fa fa-linux
-    Color: '#1DBFBF'
-    Text_Color: '#ffffff'
+  #   # Hobby Linux
+  # - Name: Hobby Linux
+  #   URL: https://github.com/Hobby-Linux
+  #   Icon-Class: fa fa-linux
+  #   Color: '#1DBFBF'
+  #   Text_Color: '#ffffff'
 
     # UNSPLASH
   - Name: Unsplash
