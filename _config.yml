@@ -33,6 +33,14 @@ links:
     Color: '#6DB2FA'
     Icon-Class: fa-brands fa-bluesky
 
+    # PATREON
+  - Name: Patreon
+    URL: 'https://www.patreon.com'
+    Username: egeexyz
+    Icon-Class: fa-brands fa-patreon
+    Color: '#FC674D'
+    Text_Color: '#ffffff'
+
     # YOUTUBE
   - Name: Egee's Hobbies
     URL: https://www.youtube.com/
@@ -40,27 +48,12 @@ links:
     Color: '#F20C0C'
     Icon-Class: fab fa-youtube
 
-  #   # GITLAB
-  # - Name: Gitlab
-  #   URL: http://gitlab.com
-  #   Username: egee-irl
-  #   Color: '#FC6D26'
-  #   Icon-Class: fab fa-gitlab
-
-    # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Icon-Class: fa-brands fa-steam
-    Username: 'egeexyz'
-    Color: '#222B38'
-    Text_Color: '#ffffff'
-
-    # PATREON
-  - Name: Patreon
-    URL: 'https://www.patreon.com'
+    # TWITCH
+  - Name: Twitch
+    URL: 'https://twitch.tv'
     Username: egeexyz
-    Icon-Class: fa-brands fa-patreon
-    Color: '#FC674D'
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
     Text_Color: '#ffffff'
 
     # DISCORD
@@ -70,21 +63,6 @@ links:
     Icon-Class: fab fa-discord
     Color: '#5865F2'
     Text_Color: '#ffffff'
-  
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: egeexyz
-    Color: '#1A2B33'
-    Icon-Class: fab fa-github
-
-    # TWITCH
-  # - Name: Twitch
-  #   URL: 'https://twitch.tv'
-  #   Username: egeexyz
-  #   Icon-Class: fab fa-twitch
-  #   Color: '#9147fe'
-  #   Text_Color: '#ffffff'
 
     # SOUNDCLOUD
   - Name: SoundCloud
@@ -108,12 +86,13 @@ links:
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: egeeirl
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
+    # STEAM
+  - Name: Steam
+    URL: https://steamcommunity.com/id
+    Icon-Class: fa-brands fa-steam
+    Username: 'egeexyz'
+    Color: '#222B38'
+    Text_Color: '#ffffff'
 
     # MEDIUM
   - Name: Medium
@@ -123,13 +102,35 @@ links:
     Color: '#ffffff'
     Text_Color: '#000000'
 
-    # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
+    # UNSPLASH
+  - Name: Unsplash
+    URL: 'https://unsplash.com'
+    Username: '@egeeirl'
+    Icon-Class: fa-brands fa-unsplash
+    Color: '#ffffff'
+    Text_Color: '#000000'
+
+   # GITLAB
+  - Name: Gitlab
+    URL: http://gitlab.com
     Username: egee-irl
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
+    Color: '#FC6D26'
+    Icon-Class: fab fa-gitlab
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: egeexyz
+    Color: '#1A2B33'
+    Icon-Class: fab fa-github
+
+    # DEVIANTART
+  # - Name: DeviantArt
+  #   URL: https://www.deviantart.com
+  #   Username: egee-irl
+  #   Icon-Class: fab fa-deviantart
+  #   Color: '#05CC46'
+  #   Text_Color: '#ffffff'
 
      # FURAFFINITY
   # - Name: FurAffinity
@@ -145,14 +146,6 @@ links:
   #   Icon-Class: fa fa-linux
   #   Color: '#1DBFBF'
   #   Text_Color: '#ffffff'
-
-    # UNSPLASH
-  - Name: Unsplash
-    URL: 'https://unsplash.com'
-    Username: '@egeeirl'
-    Icon-Class: fa-brands fa-unsplash
-    Color: '#ffffff'
-    Text_Color: '#000000'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
